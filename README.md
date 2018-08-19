@@ -12,28 +12,30 @@ These instructions will get you a copy of the project up and running on your loc
 
 First of all upgrade pip using command.
 
-->>pip install --upgrade pip
+-->pip install --upgrade pip
 
 1.Need to install keras.
 
-->>sudo pip install keras
+-->sudo pip install keras
 
  If you are using a virtualenv, you may want to avoid using sudo:
 
 -->pip install keras
 
-Configuring your Keras backend
-By default, Keras will use TensorFlow as its tensor manipulation library. Follow these instructions to configure the Keras backend.
+                                    Configuring your Keras backend
+                            By default, Keras will use TensorFlow as its  
+                            tensor manipulation library. Follow these instructions 
+                                    to configure the Keras backend.
 
 2.Install Pandas.
 
-->>pip install pandas
+-->pip install pandas
  
 3.Install matplotlib.
 
-->>pip install matplotlib
+-->pip install matplotlib
 
 4.Install Numpy.
 
-->>pip install numpy
+-->pip install numpy
 
