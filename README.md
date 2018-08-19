@@ -1,7 +1,7 @@
 # wine_prediction
 
-Python script for Red and White wine prediction using neural network,implemented in Keras.
-1.Binary class classification(output is in 0 or 1).
+Python script for Red and White wine prediction using neural network,implemented in Keras.</br>
+1.Binary class classification(output is in 0 or 1).</br>
 2.Prediction accuracy 92%.
 
 ## Getting Started
